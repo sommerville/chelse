@@ -1,5 +1,5 @@
 // sw.js — Service Worker for Chelsea's Money PWA
-const CACHE_NAME = 'chelseas-money-v1.2';
+const CACHE_NAME = 'chelseas-money-v1.23';
 
 const PRECACHE_ASSETS = [
   '/index.html',
